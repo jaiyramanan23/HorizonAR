@@ -1,0 +1,13 @@
+{
+   "advertisementId": 1,
+   "businessId": "business_ID",
+   "businessName": "ABC Corporation",
+   "advertisementBillBoards": [2, 3, 5],
+   "timePeriod": "1 month",
+   "startingDate": "22/23/2342",
+   "paid": true,
+   "status": "completed",
+   "contentType": "text",
+   "Content": "Today 50% Off at any outlets"
+ }
+ 

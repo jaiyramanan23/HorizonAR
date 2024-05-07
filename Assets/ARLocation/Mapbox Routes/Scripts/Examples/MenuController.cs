@@ -115,12 +115,14 @@ namespace ARLocation.MapboxRoutes.Examples.Search
 
         void OnGUI()
         {
+                  GUI.backgroundColor = Color.black;
+            GUI.contentColor = Color.white;
             if (s.View == View.Route)
             {
                 return;
             }
 
-            GUILayout.BeginVertical(new GUIStyle() { padding = new RectOffset(20, 20, 20, 20) });
+            GUILayout.BeginVertical(new GUIStyle() { padding = new RectOffset(70, 70, 70, 70) });
 
             var w = Screen.width;
 

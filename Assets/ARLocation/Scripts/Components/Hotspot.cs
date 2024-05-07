@@ -5,12 +5,9 @@ using Logger = ARLocation.Utils.Logger;
 
 namespace ARLocation
 {
-
-    [AddComponentMenu("AR+GPS/Hotspot")]
-    [HelpURL("https://http://docs.unity-ar-gps-location.com/guide/#hotspot")]
-    [DisallowMultipleComponent]
     public class Hotspot : MonoBehaviour
     {
+        
         [Serializable]
         public class OnHotspotActivatedUnityEvent : UnityEvent<GameObject> { }
 
