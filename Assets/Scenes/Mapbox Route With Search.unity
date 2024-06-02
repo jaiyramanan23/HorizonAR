@@ -1499,7 +1499,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1c04fa4e0641a427587f656c768c3002, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ArrowSprite: {fileID: 21300000, guid: 19a300465515241c2bb5670f7b18e69b, type: 3}
+  ArrowSprite: {fileID: 21300000, guid: f49b68d39efaf423c9ccdd21312a9f2d, type: 3}
   NeutralArrowDirection: 1
   Margin: 80
 --- !u!1 &470501574
